@@ -1,5 +1,4 @@
-# IF100
-# Computational Approaches to Problem Solving
+# IF100 Computational Approaches to Problem Solving
 
 Basics of Programming
 
